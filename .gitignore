@@ -1,0 +1,52 @@
+# Hugo build output
+public/
+resources/
+/.hugo_build.lock
+
+# Hugo generated cache/temp (opcionales)
+/resources/_gen/
+/hugo_stats.json
+
+# Dependencias de npm/yarn (incluye themes que tengan sus propios node_modules)
+node_modules/
+**/node_modules/
+npm-debug.log
+yarn-error.log
+.pnp.*
+.yarn/*
+.yarnrc.yml
+
+# Archivos generados por el OS
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+Icon?
+ehthumbs.db
+.Spotlight-V100
+.Trashes
+
+# Directorios y archivos de editores/IDE
+.vscode/
+.idea/
+*.iml
+*.suo
+*.user
+*.userosscache
+*.sln
+*.sln.docstates
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# Swap / temporales de editores
+*.swp
+*.swo
+.#*
+*~
+*.tmp
+
+# Logs y archivos temporales comunes
+*.log
+tmp/
+temp/
