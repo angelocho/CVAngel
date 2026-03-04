@@ -6,9 +6,15 @@ theme = 'loveit'
 # Configuración del sitio
 [params]
   description = "Portafolio profesional de Ángel Bocalandro Ruiz - DevOps Engineer con experiencia en Cloud, Kubernetes y Automatización"
-  author = "Ángel Bocalandro Ruiz"
+  
+  # Información del autor
+  [params.author]
+    name = "Ángel Bocalandro Ruiz"
+    link = "https://angelocho.netlify.app"
+  
   # Avatar
   avatar = "avatar.jpg"
+  
   # Redes sociales
   [params.social]
     email = "angelocho64@gmail.com"
