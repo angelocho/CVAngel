@@ -1,4 +1,16 @@
 baseURL = 'https://example.org/'
 languageCode = 'es'
-title = 'My DevOps CV'
+title = 'Ángel Bocalandro | DevOps Engineer'
 theme = 'loveit'
+
+# Configuración del sitio
+[params]
+  description = "Portafolio profesional de Ángel Bocalandro Ruiz - DevOps Engineer con experiencia en Cloud, Kubernetes y Automatización"
+  author = "Ángel Bocalandro Ruiz"
+  # Avatar
+  avatar = "avatar.jpg"
+  # Redes sociales
+  [params.social]
+    email = "angelocho64@gmail.com"
+    github = "angelocho"
+    linkedin = "angel-bocalandro"
