@@ -1,11 +1,13 @@
 baseURL = 'https://example.org/'
-languageCode = 'es'
 title = 'Ángel Bocalandro | DevOps Engineer'
+defaultContentLanguage = 'es'
+languageCode = 'es'
 theme = 'loveit'
 
 # Configuración del sitio
 [params]
   description = "Portafolio profesional de Ángel Bocalandro Ruiz - DevOps Engineer con experiencia en Cloud, Kubernetes y Automatización"
+  title = "Ángel Bocalandro | DevOps Engineer"
   
   # Información del autor
   [params.author]
@@ -19,4 +21,74 @@ theme = 'loveit'
   [params.social]
     email = "angelocho64@gmail.com"
     github = "angelocho"
-    linkedin = "angel-bocalandro"
+    linkedin = "ángel-bocalandro-ruiz-ab7221231/"
+
+# Configuración de idiomas
+[languages]
+  [languages.es]
+    weight = 1
+    languageCode = "es"
+    languageName = "Español"
+    
+    [languages.es.menu]
+      [[languages.es.menu.main]]
+        weight = 1
+        identifier = "sobre-mi"
+        name = "Sobre mí"
+        url = "/sobre-mi/"
+        title = "Información personal y profesional"
+      
+      [[languages.es.menu.main]]
+        weight = 2
+        identifier = "experiencia"
+        name = "Experiencia"
+        url = "/experiencia/"
+        title = "Experiencia profesional"
+      
+      [[languages.es.menu.main]]
+        weight = 3
+        identifier = "formacion"
+        name = "Formación"
+        url = "/formacion/"
+        title = "Educación y certificaciones"
+      
+      [[languages.es.menu.main]]
+        weight = 4
+        identifier = "habilidades"
+        name = "Habilidades"
+        url = "/habilidades/"
+        title = "Competencias técnicas y profesionales"
+
+  [languages.en]
+    weight = 2
+    languageCode = "en"
+    languageName = "English"
+    
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        weight = 1
+        identifier = "about"
+        name = "About"
+        url = "/en/sobre-mi/"
+        title = "Personal and professional information"
+      
+      [[languages.en.menu.main]]
+        weight = 2
+        identifier = "experience"
+        name = "Experience"
+        url = "/en/experiencia/"
+        title = "Professional experience"
+      
+      [[languages.en.menu.main]]
+        weight = 3
+        identifier = "education"
+        name = "Education"
+        url = "/en/formacion/"
+        title = "Education and certifications"
+      
+      [[languages.en.menu.main]]
+        weight = 4
+        identifier = "skills"
+        name = "Skills"
+        url = "/en/habilidades/"
+        title = "Technical and professional skills"
