@@ -6,111 +6,111 @@ params:
   author: "Ángel Bocalandro Ruiz"
 ---
 
-# 🛠️ Technical Skills
+# 🛠️ Tech Stack
 
-## ☁️ Cloud & Infrastructure
+## ⭐ Top Competencies (> 90% proficiency)
 
-### Amazon Web Services (AWS)
-- **EKS** - Amazon Elastic Kubernetes Service (management of 6 clusters)
-- **EC2** - Compute instances
-- **RDS** - Relational databases (PostgreSQL, MySQL)
-- **ElastiCache** - In-memory caching
+### **AWS EKS** ██████████ 95%
+Management of 6 production clusters, auto-scaling, cost optimization
+
+### **Kubernetes** ██████████ 95%
+Deployments, Services, Ingress, ConfigMaps, Secrets, StatefulSets, CustomResources
+
+### **Terraform** ██████████ 95%
+Modules, state management, workflows, TFE, IaC best practices
+
+### **Docker** ██████████ 90%
+Optimized Dockerfiles, multi-stage builds, private registries, networking
+
+### **Jenkins** █████████░ 90%
+Declarative pipelines, Groovy, plugins, distributed agents, GitOps
+
+---
+
+## 💼 Advanced Skills (70-89%)
+
+| Technology | Level | Experience |
+|-----------|-------|------------|
+| **GitHub Actions** | ████████░ 85% | CI/CD workflows, custom actions |
+| **Python** | ████████░ 85% | Scripting, automation, web scraping |
+| **Ansible** | ███████░░ 80% | Playbooks, roles, inventories |
+| **GitLab CI** | ███████░░ 80% | Pipelines, runners, artifacts |
+| **Prometheus** | ███████░░ 80% | Metrics, alerts, scrape configs |
+| **MySQL / PostgreSQL** | ███████░░ 80% | RDS, query tuning, backups |
+| **CloudFormation** | ███████░░ 75% | Templates, stacks, changesets |
+| **Grafana** | ███████░░ 80% | Dashboards, datasources, alerting |
+| **Dynatrace** | ███████░░ 80% | APM, monitoring, troubleshooting |
+
+---
+
+## 🎯 Intermediate Skills (50-69%)
+
+- **Azure** - AZ-104, AZ-900 Certified
+- **ArgoCD** - GitOps, applicationsets
+- **Loki** - Log aggregation, labels
+- **Helm** - Charts, values, templating
+- **UrbanCode** - Enterprise deployments
+- **Rundeck** - Job scheduling, workflows
+- **Amazon S3/EBS/RDS** - Cloud storage
+- **ElastiCache** - Distributed caching
 - **Lambda** - Serverless functions
-- **Glue** - ETL and data management
-- **CloudWatch** - Monitoring and logging
-- **IAM** - Identity and access management
-- **VPC** - Virtual networks, subnets, Security Groups
-- **QuickSight** - Business Intelligence
-
-### Microsoft Azure
-- **AZ-104** - Azure Administrator Certified
-- **AZ-900** - Azure Fundamentals Certified
-
-### Private Infrastructure
-- **OHE** - Private infrastructure orchestration
+- **Git / GitHub / GitLab** - Version control
 
 ---
 
-## 🐳 Containers & Orchestration
+## 🏆 Certifications
 
-### Kubernetes
-- **EKS Cluster Management** - 6 production clusters
-- **Deployment Management** - Helm, YAML manifests
-- **Networking** - Service mesh, ingress controllers
-- **Storage** - Persistent volumes, storage classes
-- **Security** - RBAC, network policies
-
-### Docker
-- **Image Creation** - Multi-stage builds, optimization
-- **Container Registry** - Docker Hub, Amazon ECR
-- **Docker Compose** - Multi-container applications
+| Certification | Issuer | Status |
+|-----------|--------|--------|
+| 🥇 **HashiCorp Certified: Terraform Associate** | HashiCorp | ✅ Active |
+| 🥇 **AWS Certified Solutions Architect Associate** | Amazon | ✅ In preparation |
+| 🥇 **Azure Administrator Certified (AZ-104)** | Microsoft | ✅ Active |
+| 🥇 **Azure Fundamentals (AZ-900)** | Microsoft | ✅ Active |
+| 🥇 **AWS SysOps Administrator** | Amazon | ✅ In preparation |
 
 ---
 
-## 🔧 DevOps Tools & Technologies
+## 📈 Additional Competencies
 
-### CI/CD Platforms
-- **GitHub Actions** - Workflow automation
-- **Jenkins** - Pipeline orchestration
-- **Gitlab CI/CD** - Pipeline configuration
-- **UrbanCode** - Enterprise release automation
-- **ArgoCD** - GitOps continuous deployment
+### **Soft Skills**
+- 👥 Technical leadership (DevOps Team Lead)
+- 📋 Agile project management (Scrum, Kanban)
+- 🎯 Problem-solving and troubleshooting
+- 📚 Technical documentation
+- 🤝 Stakeholder communication
 
-### Infrastructure as Code
-- **Terraform** - Infrastructure provisioning and management
-- **CloudFormation** - AWS infrastructure templates
-- **Ansible** - Configuration management
+### **Languages**
+- 🇪🇸 **Spanish** - Native
+- 🇬🇧 **English** - Fluent (B2+ Level)
 
-### Monitoring & Logging
-- **CloudWatch** - AWS native monitoring
-- **Dynatrace** - Application performance monitoring
-- **Prometheus & Grafana** - Metrics and visualization
-- **ELK Stack** - Elasticsearch, Logstash, Kibana
-
-### Other Tools
-- **Rundeck** - Job scheduling and automation
-- **ServiceNow** - IT Service Management
-- **Infoblox** - DNS and DHCP management
-- **Git/GitHub/GitLab** - Version control
+### **Auxiliary Tools**
+- Linux/Bash scripting
+- Vi/Vim editing
+- Make/Makefile automation
+- Swagger/OpenAPI
+- Jira / Confluence
+- Slack API integrations
 
 ---
 
-## 💻 Programming Languages
+## 📊 Experience Distribution
 
-### Python
-- Automation scripts
-- Application development
-- Data processing
-
-### Bash & Shell Scripting
-- Linux automation
-- Pipeline scripts
-- System administration
-
-### YAML & Configuration Languages
-- Kubernetes manifests
-- CI/CD pipeline definitions
-- Infrastructure as Code
+```
+AWS & Cloud:        ████████████ 95%
+Kubernetes:         ████████████ 95%
+Terraform:          ████████████ 95%
+CI/CD:              ███████████░ 90%
+Scripting/Python:   ███████████░ 85%
+Monitoring:         ███████████░ 85%
+Containerization:   ███████████░ 90%
+Databases:          ██████████░░ 80%
+```
 
 ---
 
-## 🌐 Operating Systems
+## 🎬 Ready to Collaborate?
 
-- **Linux** - Ubuntu, CentOS, Red Hat
-- **Windows Server** - Administration and management
-- **macOS** - Development environment
+I have experience working in multidisciplinary teams, leading DevOps initiatives, and mentoring other engineers. **Do you need a DevOps Engineer for your team?**
 
----
+📧 [angelocho64@gmail.com](mailto:angelocho64@gmail.com)
 
-## 📊 Core Competencies
-
-- Infrastructure Architecture
-- System Administration
-- Cloud Computing
-- Automation & Scripting
-- Security Best Practices
-- Performance Optimization
-- Team Collaboration
-- Technical Documentation
-- Incident Management
-- Change Management

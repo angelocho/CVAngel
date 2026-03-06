@@ -6,97 +6,114 @@ params:
   author: "Ángel Bocalandro Ruiz"
 ---
 
-# 🛠️ Habilidades Técnicas
+# 🛠️ Stack Tecnológico
 
-## ☁️ Cloud & Infraestructura
+## ⭐ Top Competencias (> 90% proficiencia)
 
-### Amazon Web Services (AWS)
-- **EKS** - Amazon Elastic Kubernetes Service (gestión de 6 clústeres)
-- **EC2** - Instancias de cómputo
-- **RDS** - Bases de datos relacionales (PostgreSQL, MySQL)
-- **ElastiCache** - Caché en memoria
-- **Lambda** - Funciones serverless
-- **Glue** - ETL y gestión de datos
-- **CloudWatch** - Monitorización y logging
-- **IAM** - Gestión de identidades y accesos
-- **VPC** - Redes virtuales, subnets, Security Groups
-- **QuickSight** - Business Intelligence
+### **AWS EKS** ██████████ 95%
+Administración de 6 clústeres en producción, escalado automático, optimización de costos
 
-### Microsoft Azure
-- **AZ-104** - Azure Administrator Certified
-- **AZ-900** - Azure Fundamentals Certified
+### **Kubernetes** ██████████ 95%
+Deployments, Services, Ingress, ConfigMaps, Secrets, StatefulSets, CustomResources
 
-### Infraestructura Privada
-- **OHE** - Orquestación de infraestructura privada
+### **Terraform** ██████████ 95%
+Módulos, state management, workflows, TFE, best practices IaC
+
+### **Docker** ██████████ 90%
+Dockerfiles optimizados, multi-stage builds, registries privados, networking
+
+### **Jenkins** █████████░ 90%
+Pipelines declarativos, Groovy, plugins, distributed agents, GitOps
 
 ---
 
-## 🐳 Containerización & Orquestación
+## 💼 Habilidades Avanzadas (70-89%)
 
-### **Docker**
-- Creación y gestión de imágenes
-- Docker Compose
-- Docker Registry
-
-### **Kubernetes**
-- Administración de clústeres EKS
-- Despliegue de aplicaciones
-- Gestión de recursos y namespaces
-- Monitoreo con Lens
-
-### **Herramientas Relacionadas**
-- **Amazon ECS** - Elastic Container Service
+| Tecnología | Nivel | Experiencia |
+|-----------|-------|------------|
+| **GitHub Actions** | ████████░ 85% | Workflows CI/CD, actions personalizadas |
+| **Python** | ████████░ 85% | Scripting, automatización, web scraping |
+| **Ansible** | ███████░░ 80% | Playbooks, roles, inventarios |
+| **GitLab CI** | ███████░░ 80% | Pipelines, runners, artifacts |
+| **Prometheus** | ███████░░ 80% | Métricas, alertas, scrape configs |
+| **MySQL / PostgreSQL** | ███████░░ 80% | RDS, query tuning, backups |
+| **CloudFormation** | ███████░░ 75% | Templates, stacks, changesets |
+| **Grafana** | ███████░░ 80% | Dashboards, datasources, alerting |
+| **Dynatrace** | ███████░░ 80% | APM, monitoring, troubleshooting |
 
 ---
 
-## 🔧 Infrastructure as Code (IaC)
+## 🎯 Competencias Intermedias (50-69%)
 
-### **Terraform**
-- **HashiCorp Certified: Terraform Associate (003)**
-- Módulos Terraform
-- State management
-- Terraform Enterprise (TFE)
-
-### **AWS CloudFormation**
-- Templates en YAML/JSON
-- Stacks y changesets
-
----
-
-## 🚀 CI/CD & Automatización
-
-### **Orquestación de Despliegues**
-- **Jenkins** - Pipelines y jobs
-- **GitHub Actions** - Workflows automatizados
-- **GitLab CI** - Pipelines de CI/CD
+- **Azure** - AZ-104, AZ-900 Certified
+- **ArgoCD** - GitOps, applicationsets
+- **Loki** - Log aggregation, labels
+- **Helm** - Charts, values, templating
 - **UrbanCode** - Despliegues empresariales
-- **ArgoCD** - GitOps
-
-### **Control de Versiones**
-- **Git** - Control de versiones distribuido
-- **GitHub** - Repositorios y colaboración
-- **GitLab** - DevOps platform completa
-
-### **Automatización**
-- **Ansible** - Automatización de infraestructura
-- **Control-M** - Job scheduling
-- **Python** - Scripting y automatización
+- **Control-M** - Job scheduling, workflows
+- **Amazon S3/EBS/RDS** - Almacenamiento cloud
+- **ElastiCache** - Caché distribuida
+- **Lambda** - Funciones serverless
+- **Git / GitHub / GitLab** - Control de versiones
 
 ---
 
-## 📊 Monitorización & Observabilidad
+## 🏆 Certificaciones
 
-### **Herramientas de Monitorización**
-- **CloudWatch** - Monitorización nativa de AWS
-- **Dynatrace** - APM (Application Performance Monitoring)
-- **Prometheus** - Monitorización de métricas
-- **Grafana** - Visualización de datos y dashboards
-- **Loki** - Log aggregation
+| Certificación | Emisor | Estado |
+|-----------|--------|--------|
+| 🥇 **HashiCorp Certified: Terraform Associate** | HashiCorp | ✅ Activa |
+| 🥇 **AWS Certified Solutions Architect Associate** | Amazon | ✅ En preparación |
+| 🥇 **Azure Administrator Certified (AZ-104)** | Microsoft | ✅ Activa |
+| 🥇 **Azure Fundamentals (AZ-900)** | Microsoft | ✅ Activa |
+| 🥇 **AWS SysOps Administrator** | Amazon | ✅ En preparación |
 
-### **Herramientas de Debugging**
-- **Lens** - IDE para Kubernetes
-- **CloudWatch Logs Insights** - Análisis de logs
-- **Amazon Athena** - Consultas SQL en logs
+---
+
+## 📈 Otras Competencias
+
+### **Soft Skills**
+- 👥 Liderazgo técnico (Team Lead DevOps)
+- 📋 Gestión de proyectos ágiles (Scrum, Kanban)
+- 🎯 Problem-solving y troubleshooting
+- 📚 Documentación técnica
+- 🤝 Comunicación con stakeholders
+
+### **Idiomas**
+- 🇪🇸 **Español** - Nativo
+- 🇬🇧 **Inglés** - Fluido (Nivel B2+)
+
+### **Herramientas Auxiliares**
+- Linux/Bash scripting
+- Vi/Vim editing
+- Make/Makefile automation
+- Swagger/OpenAPI
+- Jira / Confluence
+- Slack API integrations
+
+---
+
+## 📊 Distribución de Experiencia
+
+```
+AWS & Cloud:        ████████████ 95%
+Kubernetes:         ████████████ 95%
+Terraform:          ████████████ 95%
+CI/CD:              ███████████░ 90%
+Scripting/Python:   ███████████░ 85%
+Monitoring:         ███████████░ 85%
+Containerización:   ███████████░ 90%
+Databases:          ██████████░░ 80%
+```
+
+---
+
+## 🎬 Ready to Collaborate?
+
+Tengo experiencia trabajando en equipos multidisciplinarios, liderando iniciativas DevOps y formando a otros ingenieros. **¿Necesitas un DevOps Engineer para tu equipo?**
+
+📧 [angelocho64@gmail.com](mailto:angelocho64@gmail.com)
+
 
 ---
 

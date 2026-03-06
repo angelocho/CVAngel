@@ -8,14 +8,82 @@ params:
 
 # 👋 Bienvenido a mi Portfolio
 
-Soy **DevOps Engineer** con experiencia en administración de sistemas, cloud computing e infraestructura a escala. Apasionado por la automatización, seguridad informática y la mejora continua.
+**DevOps Engineer** especializado en infraestructura cloud, Kubernetes y automatización. Tengo experiencia administrando infraestructuras a escala en empresas del sector financiero y tecnológico.
 
-## 📍 Ubicación
-**Madrid, España** | [Email: angelocho64@gmail.com](mailto:angelocho64@gmail.com)
+---
+
+## 📊 Mis Números
+
+| Métrica | Valor |
+|---------|-------|
+| 🚀 **Clústeres Kubernetes en Producción** | 6 |
+| ⏱️ **Uptime Promedio** | 99.9% |
+| 📦 **Deployments Automatizados** | 50+ / mes |
+| ⚡ **Tiempo Deployment → Producción** | < 10 min |
+| 🔧 **Autom atización Infraestructura** | 95% |
+| 📈 **Reducción MTTR** | 70% |
+
+---
+
+## 🎯 Mis Fortalezas
+
+- **☁️ AWS Expert** - EKS, EC2, RDS, Lambda, VPC (95% proficiency)
+- **🐳 Kubernetes Advanced** - 6 clústeres en producción (95% proficiency)
+- **📝 Infrastructure as Code** - Terraform certified (95% proficiency)
+- **🚀 CI/CD Specialist** - Jenkins, GitHub Actions, GitLab CI (90% proficiency)
+- **💻 Automatización** - Python, Ansible, scripting (85% proficiency)
+
+---
+
+## 📍 Ubicación & Contacto
+
+🏙️ **Madrid, España** | 📧 **[angelocho64@gmail.com](mailto:angelocho64@gmail.com)** | 🔗 **[LinkedIn](https://linkedin.com/in/ángel-bocalandro-ruiz-ab7221231/)** | 💻 **[GitHub](https://github.com/angelocho)**
+
+---
+
+## 🚀 Llamadas a la Acción
+
+### ⬇️ Descargar mi CV
+[`📄 Descargar CV en PDF`](/CV.pdf) - Versión completa de mi experiencia y certificaciones
+
+### 💬 Contactar
+📧 [angelocho64@gmail.com](mailto:angelocho64@gmail.com) - Estoy disponible para discutir oportunidades DevOps
 
 ---
 
 ## 💼 Experiencia Profesional
+
+### **DevOps Engineer** | Banco Santander (Grupo Hasten / Nter)
+**Febrero 2025 – Actualidad** | Madrid / Remoto
+
+- **Infraestructura cloud a escala**: Administro 6 clústeres Amazon EKS en preproducción y producción, gestionando actualizaciones, parcheos de seguridad y la red asociada (VPC, subnets, balanceadores, Security Groups)
+- **Coordino permisos IAM** con el equipo de seguridad aplicando principio de mínimo privilegio
+- **Despliegues y releases**: Coordino 4 despliegues semanales a producción, gestionando documentación, aprobaciones y comunicación entre equipos
+- **Despliego servicios** como RDS PostgreSQL, ElastiCache, Lambda y Glue usando pipelines con GitHub Actions y UrbanCode
+- **Soporte y resolución** de incidencias, debugging de errores en pipelines y gestión de ticketing con ServiceNow
+- **Monitorización**: Implemento dashboards y alarmas en CloudWatch para supervisar salud de infraestructura
+- **Mejora continua**: Propongo optimizaciones de recursos y costes en AWS, documentando procesos para el equipo
+
+### **DevOps Engineer Junior** | UST Global Esp
+**Octubre 2023 - Junio 2024**
+
+- Experiencia en equipo de **Automation** para proyecto Santander
+- Herramientas: Rundeck, Jenkins, Dynatrace, Infoblox, PSP, Ansible, Github, GitLab, VSCode, TFE
+- Gestión de tickets con **ServiceNow**
+- Experiencia en nubes públicas (AWS, Azure) y privada (OHE)
+- Desarrollo en **Python**
+
+### **DevOps Engineer Junior** | Luca Tic
+**Marzo - Octubre 2023**
+
+- Formación en herramientas: **Terraform, ArgoCD, Gitlab, Github, Kubernetes, Docker, Jenkins**
+- Conocimientos: AWS SysOps, AZ-104 y AZ-900 (Pluralsight)
+- Proyecto Coches.com
+
+### **Trabajo Presencial** | Ibermática, S.A.
+**Noviembre - Diciembre 2022**
+
+- Soporte en **CAU Ministerio de Justicia**
 
 ### **DevOps Engineer** | Banco Santander (Grupo Hasten / Nter)
 **Febrero 2025 – Actualidad** | Madrid / Remoto

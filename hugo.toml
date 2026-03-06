@@ -75,13 +75,20 @@ enableEmoji = true
       
       [[languages.es.menu.main]]
         weight = 3
+        identifier = "proyectos"
+        name = "Proyectos"
+        url = "/proyectos/"
+        title = "Proyectos destacados"
+      
+      [[languages.es.menu.main]]
+        weight = 4
         identifier = "formacion"
         name = "Formación"
         url = "/formacion/"
         title = "Educación y certificaciones"
       
       [[languages.es.menu.main]]
-        weight = 4
+        weight = 5
         identifier = "habilidades"
         name = "Habilidades"
         url = "/habilidades/"
@@ -122,13 +129,20 @@ enableEmoji = true
       
       [[languages.en.menu.main]]
         weight = 3
+        identifier = "projects"
+        name = "Projects"
+        url = "/en/proyectos/"
+        title = "Featured projects"
+      
+      [[languages.en.menu.main]]
+        weight = 4
         identifier = "education"
         name = "Education"
         url = "/en/formacion/"
         title = "Education and certifications"
       
       [[languages.en.menu.main]]
-        weight = 4
+        weight = 5
         identifier = "skills"
         name = "Skills"
         url = "/en/habilidades/"

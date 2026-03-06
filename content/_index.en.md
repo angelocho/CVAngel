@@ -8,14 +8,82 @@ params:
 
 # 👋 Welcome to My Portfolio
 
-I'm a **DevOps Engineer** with experience in system administration, cloud computing, and large-scale infrastructure. Passionate about automation, cybersecurity, and continuous improvement.
+**DevOps Engineer** specializing in cloud infrastructure, Kubernetes, and automation. I have experience managing large-scale infrastructure in the financial and technology sectors.
 
-## 📍 Location
-**Madrid, Spain** | [Email: angelocho64@gmail.com](mailto:angelocho64@gmail.com)
+---
+
+## 📊 My Numbers
+
+| Metric | Value |
+|--------|-------|
+| 🚀 **Kubernetes Clusters in Production** | 6 |
+| ⏱️ **Average Uptime** | 99.9% |
+| 📦 **Automated Deployments** | 50+ / month |
+| ⚡ **Commit to Production Time** | < 10 min |
+| 🔧 **Infrastructure Automation** | 95% |
+| 📈 **MTTR Reduction** | 70% |
+
+---
+
+## 🎯 My Strengths
+
+- **☁️ AWS Expert** - EKS, EC2, RDS, Lambda, VPC (95% proficiency)
+- **🐳 Kubernetes Advanced** - 6 clusters in production (95% proficiency)
+- **📝 Infrastructure as Code** - Terraform certified (95% proficiency)
+- **🚀 CI/CD Specialist** - Jenkins, GitHub Actions, GitLab CI (90% proficiency)
+- **💻 Automation** - Python, Ansible, scripting (85% proficiency)
+
+---
+
+## 📍 Location & Contact
+
+🏙️ **Madrid, Spain** | 📧 **[angelocho64@gmail.com](mailto:angelocho64@gmail.com)** | 🔗 **[LinkedIn](https://linkedin.com/in/ángel-bocalandro-ruiz-ab7221231/)** | 💻 **[GitHub](https://github.com/angelocho)**
+
+---
+
+## 🚀 Call to Action
+
+### ⬇️ Download my CV
+[`📄 Download PDF CV`](/CV.pdf) - Complete version of my experience and certifications
+
+### 💬 Get in Touch
+📧 [angelocho64@gmail.com](mailto:angelocho64@gmail.com) - Available to discuss DevOps opportunities
 
 ---
 
 ## 💼 Professional Experience
+
+### **DevOps Engineer** | Banco Santander (Grupo Hasten / Nter)
+**February 2025 – Present** | Madrid / Remote
+
+- **Large-scale cloud infrastructure**: I manage 6 Amazon EKS clusters in pre-production and production, managing updates, security patches, and associated networking (VPC, subnets, load balancers, Security Groups)
+- **IAM permission coordination** with the security team applying principle of least privilege
+- **Deployments and releases**: I coordinate 4 weekly production deployments, managing documentation, approvals, and communication between teams
+- **Service deployment** such as RDS PostgreSQL, ElastiCache, Lambda, and Glue using pipelines with GitHub Actions and UrbanCode
+- **Support and incident resolution**: Pipeline error debugging, incident resolution, and ticketing management with ServiceNow
+- **Monitoring**: I implement dashboards and alarms in CloudWatch to monitor infrastructure health
+- **Continuous improvement**: I propose resource and cost optimizations in AWS, documenting processes for the team
+
+### **DevOps Engineer Junior** | UST Global Esp
+**October 2023 - June 2024**
+
+- Experience in **Automation** team for Santander project
+- Tools: Rundeck, Jenkins, Dynatrace, Infoblox, PSP, Ansible, Github, GitLab, VSCode, TFE
+- Ticket management with **ServiceNow**
+- Experience in public clouds (AWS, Azure) and private cloud (OHE)
+- Development in **Python**
+
+### **DevOps Engineer Junior** | Luca Tic
+**March - October 2023**
+
+- Training in tools: **Terraform, ArgoCD, Gitlab, Github, Kubernetes, Docker, Jenkins**
+- Knowledge: AWS SysOps, AZ-104 and AZ-900 (Pluralsight)
+- Coches.com Project
+
+### **On-Site Work** | Ibermática, S.A.
+**November - December 2022**
+
+- Support at **Ministry of Justice CAU**
 
 ### **DevOps Engineer** | Banco Santander (Grupo Hasten / Nter)
 **February 2025 – Present** | Madrid / Remote
