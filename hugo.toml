@@ -1,5 +1,5 @@
 baseURL = 'https://cloudcvangel.netlify.app/'
-title = 'Ángel Bocalandro | DevOps Engineer'
+title = 'Mi Portafolio | Ángel Bocalandro'
 defaultContentLanguage = 'es'
 languageCode = 'es'
 theme = 'loveit'
@@ -10,7 +10,7 @@ enableEmoji = true
 # Configuración del sitio
 [params]
   description = "Portafolio de Ángel Bocalandro - DevOps Engineer especializado en AWS, Kubernetes, Terraform y automatización. Experiencia en infraestructura cloud, CI/CD y containerización."
-  title = "Ángel Bocalandro | DevOps Engineer"
+  title = "Mi Portafolio"
   images = ["/images/avatar.png"]
   keywords = "DevOps, AWS, Kubernetes, Docker, Terraform, CI/CD, Automatización, Cloud, Infrastructure"
   
@@ -40,6 +40,7 @@ enableEmoji = true
     weight = 1
     languageCode = "es"
     languageName = "Español"
+    title = "Mi Portafolio"
     
     [languages.es.menu]
       [[languages.es.menu.main]]
@@ -74,6 +75,7 @@ enableEmoji = true
     weight = 2
     languageCode = "en"
     languageName = "English"
+    title = "My Portfolio"
     
     [languages.en.menu]
       [[languages.en.menu.main]]
