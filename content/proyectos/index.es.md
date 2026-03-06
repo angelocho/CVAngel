@@ -6,78 +6,89 @@ date: 2026-03-06
 
 ## 🚀 Proyectos Destacados
 
-### 1. **Migración Monolito → Kubernetes (Banco Santander)**
+### 1. **Administración & Escalado de Infraestructura EKS (Banco Santander)**
 
 **Descripción:**
-Lideré la migración de aplicaciones monolíticas a 6 clústeres Kubernetes en AWS EKS, mejorando la escalabilidad y reduciendo costos operacionales.
+Responsable del mantenimiento, upgrades y despliegue de aplicaciones en 6 clústeres Kubernetes en AWS EKS. Me encargo de la administración diaria, optimización y escalado de la infraestructura cloud en producción.
 
 **Logros:**
 - ✅ 99.9% de uptime en producción
 - ✅ 6 clústeres Kubernetes (DEV/UAT/PROD multi-región)
-- ✅ Reducción de 40% en costos infraestructura
-- ✅ Automatización completa con IaC (Terraform)
+- ✅ Optimización y reducción de costos de infraestructura
+- ✅ Automatización completa de despliegues con IaC (Terraform)
 
 **Stack Tecnológico:**
 - **Orquestación:** AWS EKS, Kubernetes, Helm
 - **IaC:** Terraform, CloudFormation
-- **CI/CD:** Jenkins, GitHub Actions
-- **Monitoreo:** Prometheus, Grafana, ELK Stack
-- **Storage:** EBS, RDS, S3
+- **CI/CD:** Jenkins, GitHub Actions, UrbanCode
+- **Monitoreo:** CloudWatch, Prometheus, Grafana
+- **Storage:** EBS, RDS, S3, ElastiCache
 
-**Resultados:**
-- Deployments: 50+ mensuales
-- Rollback automático en caso de fallo
-- Reducción de TTR (Time To Recover) en 70%
-
----
-
-### 2. **Pipeline CI/CD Automatizado (UST Global)**
-
-**Descripción:**
-Diseñé e implementé un pipeline de CI/CD de extremo a extremo que automatizó el testing, build y deployment de microservicios.
-
-**Logros:**
-- ✅ From commit to production en <10 minutos
-- ✅ Cobertura de tests: 85%+
-- ✅ 0 downtime deployments
-- ✅ Rollback automático en 30 segundos
-
-**Stack Tecnológico:**
-- **CI/CD:** Jenkins, GitHub Actions
-- **Testing:** SonarQube, JUnit, Selenium
-- **Container:** Docker, Docker Registry (ECR)
-- **Orchestration:** Kubernetes, Docker Swarm
-- **Notificaciones:** Slack webhooks, email alerts
-
-**Impacto:**
-- Reducción de tiempo de deployment: 80%
-- Aumento de deploy frequency: 10x
-- Reducción de bugs en producción: 60%
+**Responsabilidades:**
+- Deployments: 50+ mensuales coordinados
+- Upgrades de versión en EKS sin downtime
+- Gestión de permisos IAM y seguridad
+- Dashboards y alarmas en CloudWatch
+- Soporte y resolución de incidencias
+- Documentación y best practices
 
 ---
 
-### 3. **Infraestructura Cloud Híbrida (Luca Tic)**
+### 2. **Equipo de Automatización Enterprise (UST Global)**
 
 **Descripción:**
-Implementé infraestructura híbrida on-premise/cloud con disaster recovery, alta disponibilidad y auto-scaling.
+Experiencia en el equipo de **Automation** trabajando en infraestructura y herramientas DevOps para el proyecto Santander. Me formé en diversas plataformas y herramientas de gestión de infraestructura, tanto en cloud público (AWS, Azure) como privado (OHE).
 
 **Logros:**
-- ✅ 99.99% SLA garantizado
-- ✅ Backup automático diario con RTO < 15 min
-- ✅ Auto-scaling en base a métricas (CPU, memoria)
-- ✅ Compliance GDPR & ISO 27001
+- ✅ Dominio de múltiples herramientas DevOps
+- ✅ Experiencia multi-cloud (AWS, Azure, On-Premise)
+- ✅ Integración con ticketing enterprise (ServiceNow)
+- ✅ Desarrollo de scripts de automatización en Python
 
 **Stack Tecnológico:**
-- **Cloud:** AWS (EC2, RDS, VPC, Lambda)
-- **IaC:** Terraform, Ansible
-- **Monitoreo:** CloudWatch, DataDog
-- **Logging:** ELK Stack (Elasticsearch, Logstash, Kibana)
-- **Networking:** VPN, Security Groups, WAF
+- **Orquestación:** Rundeck, Jenkins, UrbanCode
+- **Cloud:** AWS, Microsoft Azure, OHE (privada)
+- **Monitoreo:** Dynatrace, CloudWatch
+- **Automatización:** Ansible, Python, Bash
+- **Networking:** Infoblox, PSP
+- **Control de versiones:** GitHub, GitLab
 
-**Automatización:**
-- 100+ rutinas Ansible
-- Infrastructure-as-Code: 95% coverage
-- Políticas de backup: 7/3/1 (7 diarios, 3 semanales, 1 mensual)
+**Aprendizajes:**
+- Herramientas de job scheduling y automation
+- Gestión de incidencias enterprise
+- Integración de sistemas heterogéneos
+- Buenas prácticas en automatización
+
+---
+
+### 3. **Formación DevOps en Herramientas Cloud (Luca Tic)**
+
+**Descripción:**
+Como **DevOps Engineer Junior**, participé en proyecto Coches.com donde me formé profundamente en las herramientas y tecnologías clave del ecosistema DevOps moderno. Completé certificaciones de Pluralsight en AWS y Azure durante este período.
+
+**Logros:**
+- ✅ Dominio de Terraform como IaC principal
+- ✅ Experiencia con orquestación GitOps (ArgoCD)
+- ✅ Certificaciones: AWS SysOps, Azure AZ-104, Azure AZ-900
+- ✅ Manejo completo del stack Kubernetes-Docker
+
+**Stack Tecnológico:**
+- **IaC:** Terraform, argoCD
+- **CI/CD:** Jenkins, GitLab CI, GitHub Actions
+- **Containerización:** Docker, Kubernetes
+- **Cloud:** AWS (SysOps), Azure (AZ-104, AZ-900)
+- **Control de versiones:** GitHub, GitLab
+
+**Formación:**
+- Terraform desde fundamentos hasta módulos avanzados
+- Kubernetes: deployment, servicios, ConfigMaps
+- Docker: creación de imágenes, registries
+- AWS: EC2, RDS, VPC, IAM, Lambda
+- Azure: Virtual Machines, App Services, subscriptions
+- GitOps con ArgoCD
+
+**Proyecto:**
+- Coches.com - Infraestructura cloud y automatización
 
 ---
 
