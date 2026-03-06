@@ -42,6 +42,8 @@ enableEmoji = true
   # App config - Sobrescribir del tema
   [params.app]
     title = "Mi Portafolio"
+    noFavicon = false
+    svgFavicon = ""
   
   # Home profile config - Sobrescribir del tema
   [params.home]
