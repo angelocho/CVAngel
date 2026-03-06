@@ -1,6 +1,6 @@
 ---
 title: "Education"
-description: "My educational background and professional certifications"
+description: "Technician in Network Computer System Administration. AWS SysOps, Azure AZ-104, AZ-900 certifications. Cloud infrastructure specialization."
 date: 2026-03-04
 params:
   author: "Ángel Bocalandro Ruiz"

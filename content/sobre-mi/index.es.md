@@ -1,6 +1,6 @@
 ---
 title: "Sobre Mí"
-description: "Conoce más sobre mi perfil profesional y personal"
+description: "Conoce mi perfil como DevOps Engineer con experiencia en AWS EKS, Kubernetes, Terraform. Especializado en automatización, infraestructura cloud y seguridad."
 date: 2026-03-04
 params:
   author: "Ángel Bocalandro Ruiz"

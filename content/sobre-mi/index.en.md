@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-description: "Learn more about my professional and personal profile"
+description: "DevOps Engineer with expertise in AWS EKS, Kubernetes, Terraform and cloud infrastructure. Specializing in automation, CI/CD pipelines and security."
 date: 2026-03-04
 params:
   author: "Ángel Bocalandro Ruiz"

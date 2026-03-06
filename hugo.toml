@@ -1,27 +1,38 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://cloudcvangel.netlify.app/'
 title = 'Ángel Bocalandro | DevOps Engineer'
 defaultContentLanguage = 'es'
 languageCode = 'es'
 theme = 'loveit'
+enableRobotsTXT = true
+enableGitInfo = true
+enableEmoji = true
 
 # Configuración del sitio
 [params]
-  description = "Portafolio profesional de Ángel Bocalandro Ruiz - DevOps Engineer con experiencia en Cloud, Kubernetes y Automatización"
+  description = "Portafolio de Ángel Bocalandro - DevOps Engineer especializado en AWS, Kubernetes, Terraform y automatización. Experiencia en infraestructura cloud, CI/CD y containerización."
   title = "Ángel Bocalandro | DevOps Engineer"
+  images = ["/images/avatar.png"]
+  keywords = "DevOps, AWS, Kubernetes, Docker, Terraform, CI/CD, Automatización, Cloud, Infrastructure"
   
   # Información del autor
   [params.author]
     name = "Ángel Bocalandro Ruiz"
-    link = "https://angelocho.netlify.app"
-  
-  # Avatar
-  avatar = "avatar.jpg"
+    link = "https://cloudcvangel.netlify.app"
   
   # Redes sociales
   [params.social]
     email = "angelocho64@gmail.com"
     github = "angelocho"
     linkedin = "ángel-bocalandro-ruiz-ab7221231/"
+    
+    [params.social.openGraph]
+      enable = true
+    
+    [params.social.twitterCard]
+      enable = true
+  
+  # Avatar
+  avatar = "avatar.jpg"
 
 # Configuración de idiomas
 [languages]

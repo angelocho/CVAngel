@@ -1,6 +1,6 @@
 ---
 title: "Experiencia Profesional"
-description: "Mi trayectoria profesional en DevOps y administración de sistemas"
+description: "Experiencia DevOps en Banco Santander, UST Global, Luca Tic. Especialista en EKS, Kubernetes, Jenkins, GitHub Actions, AWS. 6 clústeres en producción."
 date: 2026-03-04
 params:
   author: "Ángel Bocalandro Ruiz"

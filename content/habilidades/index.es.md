@@ -1,6 +1,6 @@
 ---
 title: "Habilidades Técnicas"
-description: "Stack tecnológico y competencias técnicas"
+description: "Stack tecnológico: AWS EKS, Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, Python, Ansible. Especialista en infraestructura cloud y automatización."
 date: 2026-03-04
 params:
   author: "Ángel Bocalandro Ruiz"

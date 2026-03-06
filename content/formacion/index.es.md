@@ -1,6 +1,6 @@
 ---
 title: "Formación Académica"
-description: "Mi trayectoria educativa y certificaciones profesionales"
+description: "Técnico en Administración de Sistemas Informáticos en Red. Certificaciones AWS SysOps, Azure AZ-104, AZ-900. Especialización en cloud infrastructure."
 date: 2026-03-04
 params:
   author: "Ángel Bocalandro Ruiz"

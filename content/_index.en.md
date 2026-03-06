@@ -1,6 +1,6 @@
 ---
 title: "Ángel Bocalandro Ruiz"
-description: "DevOps Engineer | Cloud & Infrastructure Specialist"
+description: "DevOps Engineer specializing in AWS, Kubernetes, Terraform and cloud infrastructure. Experience in CI/CD, automation and containerization. SUSE, EKS, Docker expert. Madrid, Spain."
 date: 2026-03-04
 params:
   author: "Ángel Bocalandro Ruiz"

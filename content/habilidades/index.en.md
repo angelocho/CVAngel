@@ -1,6 +1,6 @@
 ---
 title: "Technical Skills"
-description: "Technology stack and technical competencies"
+description: "Technical stack: AWS EKS, Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, Python, Ansible. Expert in cloud infrastructure and automation."
 date: 2026-03-04
 params:
   author: "Ángel Bocalandro Ruiz"
