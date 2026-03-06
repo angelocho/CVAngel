@@ -33,6 +33,20 @@ enableEmoji = true
   
   # Avatar
   avatar = "avatar.jpg"
+  
+  # Header title config - Sobrescribir del tema
+  [params.header]
+    [params.header.title]
+      name = "Mi Portafolio"
+  
+  # App config - Sobrescribir del tema
+  [params.app]
+    title = "Mi Portafolio"
+  
+  # Home profile config - Sobrescribir del tema
+  [params.home]
+    [params.home.profile]
+      subtitle = "DevOps Engineer | Cloud & Infrastructure Specialist"
 
 # Configuración de idiomas
 [languages]
@@ -70,6 +84,18 @@ enableEmoji = true
         name = "Habilidades"
         url = "/habilidades/"
         title = "Competencias técnicas y profesionales"
+    
+    [languages.es.params]
+      [languages.es.params.header]
+        [languages.es.params.header.title]
+          name = "Mi Portafolio"
+      
+      [languages.es.params.app]
+        title = "Mi Portafolio"
+      
+      [languages.es.params.home]
+        [languages.es.params.home.profile]
+          subtitle = "DevOps Engineer | Especialista en Cloud e Infraestructura"
 
   [languages.en]
     weight = 2
@@ -105,3 +131,15 @@ enableEmoji = true
         name = "Skills"
         url = "/en/habilidades/"
         title = "Technical and professional skills"
+    
+    [languages.en.params]
+      [languages.en.params.header]
+        [languages.en.params.header.title]
+          name = "My Portfolio"
+      
+      [languages.en.params.app]
+        title = "My Portfolio"
+      
+      [languages.en.params.home]
+        [languages.en.params.home.profile]
+          subtitle = "DevOps Engineer | Cloud & Infrastructure Specialist"

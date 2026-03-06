@@ -8,7 +8,7 @@
 
 Este es mi portafolio profesional personal construido con **Hugo** y el tema **LoveIt**. Contiene información completa sobre mi trayectoria como **DevOps Engineer**, experiencia profesional, habilidades técnicas, formación académica y certificaciones.
 
-**Sitio en vivo**: https://angelocho.netlify.app/
+**Sitio en vivo**: https://cloudcvangel.netlify.app/
 
 ---
 
