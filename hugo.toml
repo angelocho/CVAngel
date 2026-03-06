@@ -1,5 +1,5 @@
 baseURL = 'https://cloudcvangel.netlify.app/'
-title = 'Mi Portafolio | Ángel Bocalandro'
+title = 'Mi Portfolio | Ángel Bocalandro'
 defaultContentLanguage = 'es'
 languageCode = 'es'
 theme = 'loveit'
@@ -9,8 +9,8 @@ enableEmoji = true
 
 # Configuración del sitio
 [params]
-  description = "Portafolio de Ángel Bocalandro - DevOps Engineer especializado en AWS, Kubernetes, Terraform y automatización. Experiencia en infraestructura cloud, CI/CD y containerización."
-  title = "Mi Portafolio"
+  description = "Portfolio de Ángel Bocalandro - DevOps Engineer especializado en AWS, Kubernetes, Terraform y automatización. Experiencia en infraestructura cloud, CI/CD y containerización."
+  title = "Mi Portfolio"
   images = ["/images/avatar.png"]
   keywords = "DevOps, AWS, Kubernetes, Docker, Terraform, CI/CD, Automatización, Cloud, Infrastructure"
   
@@ -37,11 +37,11 @@ enableEmoji = true
   # Header title config - Sobrescribir del tema
   [params.header]
     [params.header.title]
-      name = "Mi Portafolio"
+      name = "Mi Portfolio"
   
   # App config - Sobrescribir del tema
   [params.app]
-    title = "Mi Portafolio"
+    title = "Mi Portfolio"
     noFavicon = false
     svgFavicon = ""
   
@@ -56,7 +56,7 @@ enableEmoji = true
     weight = 1
     languageCode = "es"
     languageName = "Español"
-    title = "Mi Portafolio"
+    title = "Mi Portfolio"
     
     [languages.es.menu]
       [[languages.es.menu.main]]
@@ -90,10 +90,10 @@ enableEmoji = true
     [languages.es.params]
       [languages.es.params.header]
         [languages.es.params.header.title]
-          name = "Mi Portafolio"
+          name = "Mi Portfolio"
       
       [languages.es.params.app]
-        title = "Mi Portafolio"
+        title = "Mi Portfolio"
       
       [languages.es.params.home]
         [languages.es.params.home.profile]

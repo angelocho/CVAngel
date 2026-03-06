@@ -1,6 +1,6 @@
 {
-  "name": "Mi Portafolio",
-  "short_name": "Portafolio",
+  "name": "Mi Portfolio",
+  "short_name": "Portfolio",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",

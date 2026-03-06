@@ -1,4 +1,4 @@
-# 🌟 Portafolio Profesional - Ángel Bocalandro Ruiz
+# 🌟 Portfolio Profesional - Ángel Bocalandro Ruiz
 
 ![DevOps Engineer](https://img.shields.io/badge/DevOps%20Engineer-AWS%20%7C%20Kubernetes%20%7C%20Terraform-blue)
 ![Hugo](https://img.shields.io/badge/Built%20with-Hugo-FF4088)
@@ -6,7 +6,7 @@
 
 ## 📋 Descripción
 
-Este es mi portafolio profesional personal construido con **Hugo** y el tema **LoveIt**. Contiene información completa sobre mi trayectoria como **DevOps Engineer**, experiencia profesional, habilidades técnicas, formación académica y certificaciones.
+Este es mi portfolio profesional personal construido con **Hugo** y el tema **LoveIt**. Contiene información completa sobre mi trayectoria como **DevOps Engineer**, experiencia profesional, habilidades técnicas, formación académica y certificaciones.
 
 **Sitio en vivo**: https://cloudcvangel.netlify.app/
 
@@ -252,7 +252,7 @@ Este proyecto está bajo licencia MIT. Consulta el archivo `LICENSE` para más d
 
 ## 🤝 Contribuciones
 
-Este es un portafolio personal, pero sugerencias y mejoras son bienvenidas. Siéntete libre de:
+Este es un portfolio personal, pero sugerencias y mejoras son bienvenidas. Siéntete libre de:
 - Reportar errores
 - Sugerir mejoras
 - Proponer nuevas secciones
