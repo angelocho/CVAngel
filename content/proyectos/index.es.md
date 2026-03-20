@@ -32,6 +32,19 @@ Responsable del mantenimiento, upgrades y despliegue de aplicaciones en 6 clúst
 - Soporte y resolución de incidencias
 - Documentación y best practices
 
+**Diagrama simple del proyecto:**
+
+```mermaid
+flowchart LR
+    Dev[Equipo DevOps] --> Git[Repositorio y pipelines]
+    Git --> Deploy[Despliegues automatizados]
+    Deploy --> EKS[AWS EKS - 6 clusters]
+    EKS --> Apps[Aplicaciones en Kubernetes]
+    EKS --> Obs[CloudWatch / Prometheus / Grafana]
+    EKS --> Data[RDS / EBS / S3 / ElastiCache]
+    Obs --> Dev
+```
+
 ---
 
 ### 2. **Equipo de Automatización Enterprise (UST Global)**

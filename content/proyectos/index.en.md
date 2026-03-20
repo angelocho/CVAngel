@@ -32,6 +32,19 @@ Responsible for maintenance, upgrades, and deployment of applications across 6 K
 - Incident support and resolution
 - Documentation and best practices
 
+**Simple project diagram:**
+
+```mermaid
+flowchart LR
+    Dev[DevOps Team] --> Git[Repository and pipelines]
+    Git --> Deploy[Automated deployments]
+    Deploy --> EKS[AWS EKS - 6 clusters]
+    EKS --> Apps[Applications on Kubernetes]
+    EKS --> Obs[CloudWatch / Prometheus / Grafana]
+    EKS --> Data[RDS / EBS / S3 / ElastiCache]
+    Obs --> Dev
+```
+
 ---
 
 ### 2. **Enterprise Automation Team (UST Global)**
