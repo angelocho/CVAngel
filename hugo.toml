@@ -48,7 +48,7 @@ enableEmoji = true
   # Home profile config - Sobrescribir del tema
   [params.home]
     [params.home.profile]
-      avatarURL = "./static/FotoCV.jpeg"
+      avatarURL = "/FotoCV.jpeg"
       subtitle = "DevOps Engineer | Cloud & Infrastructure Specialist"
 
 # Configuración de idiomas
@@ -160,5 +160,5 @@ enableEmoji = true
       
       [languages.en.params.home]
         [languages.en.params.home.profile]
-          avatarURL = "./static/FotoCV.jpeg"
+          avatarURL = "/FotoCV.jpeg"
           subtitle = "DevOps Engineer | Cloud & Infrastructure Specialist"
