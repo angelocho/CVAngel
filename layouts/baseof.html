@@ -20,8 +20,11 @@
           const query = window.matchMedia('(prefers-color-scheme: dark)');
           function applyTheme() {
             let theme = window.localStorage?.getItem('theme') || '{{ $theme }}';
-            let isDark = theme === 'dark' || (theme === 'auto' && query.matches);
-            document.body.setAttribute('theme', isDark? 'dark' : 'light');
+            if (!['light', 'dark'].includes(theme)) {
+              theme = theme === 'auto' && query.matches ? 'dark' : 'light';
+              window.localStorage?.setItem('theme', theme);
+            }
+            document.body.setAttribute('theme', theme);
             document.body.setAttribute('cfg-theme', theme);
           }
 
