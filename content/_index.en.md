@@ -138,29 +138,30 @@ My final project focused on **Kali Linux**.
 ## 🛠️ Skills and Aptitudes
 
 ### **Aptitudes**
-- High level of responsibility.
-- Motivation in the face of challenges and self-discipline under complex situations.
-- Tenacity and team spirit.
-- Empathy and assertiveness.
+- High level of responsibility and commitment to work.
+- Motivation in the face of challenges and a strong learning mindset.
+- Teamwork and adaptation to complex environments.
+- Empathy, assertiveness, and problem solving.
 
 ### **Technical skills**
 - Installation, configuration, and maintenance of microcomputer systems.
-- Server and security management: NFS, Samba, FTP, SSH, OpenMediaVault, encryption, and Zentyal.
+- Server, network, and basic security support.
+- Management of systems and services using NFS, Samba, FTP, SSH, OpenMediaVault, encryption, and Zentyal.
 - MySQL database management and MySQL Workbench.
 - Assembly and configuration of computers and peripherals.
-- Installation, configuration, and maintenance of local networks with knowledge of DNS and DHCP.
-- Adaptation to different work positions and new work situations caused by technological change.
+- Practical knowledge of local networks, DNS, and DHCP.
+- Adaptability to different work environments and technological change.
 
 ### **Cloud & DevOps**
-- **AWS**: EKS, EC2, RDS, Lambda, ElastiCache, Glue, CloudWatch, IAM, VPC.
-- **Azure**: AZ-104, AZ-900.
-- **Kubernetes & Docker**.
-- **Infrastructure as Code**: Terraform, ArgoCD.
-- **CI/CD**: Jenkins, GitHub Actions, GitLab, UrbanCode.
-- **Automation**: Ansible, Python.
-- **Monitoring**: CloudWatch, Dynatrace, Prometheus, Grafana.
-- **Ticketing**: ServiceNow, Service Manager.
-- **Tools**: Control-M, QuickSight, Lens, DBeaver, VSCode.
+- **AWS**: hands-on experience with EKS, EC2, RDS, Lambda, ElastiCache, Glue, CloudWatch, IAM, and VPC.
+- **Azure**: knowledge of AZ-104 and AZ-900.
+- **Kubernetes & Docker**: container deployments and environment maintenance.
+- **Infrastructure as Code**: Terraform and ArgoCD.
+- **CI/CD**: Jenkins, GitHub Actions, GitLab, and UrbanCode.
+- **Automation**: Ansible and Python scripting.
+- **Monitoring**: CloudWatch, Dynatrace, Prometheus, and Grafana.
+- **Ticketing**: ServiceNow and Service Manager.
+- **Tools**: Control-M, QuickSight, Lens, DBeaver, and VSCode.
 
 ### **Languages**
 - **English**: high level in reading, speaking, and writing.

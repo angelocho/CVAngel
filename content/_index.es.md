@@ -138,29 +138,30 @@ Mi proyecto de fin de curso trató sobre **Kali Linux**.
 ## 🛠️ Competencias y Aptitudes
 
 ### **Aptitudes**
-- Alto grado de responsabilidad.
-- Motivación ante los retos y autodisciplina ante situaciones complejas.
-- Tenacidad y espíritu de equipo.
-- Empatía y asertividad.
+- Alto grado de responsabilidad y compromiso con el trabajo.
+- Motivación ante los retos y capacidad de aprendizaje continuo.
+- Trabajo en equipo y adaptación a entornos complejos.
+- Empatía, asertividad y resolución de problemas.
 
 ### **Competencias técnicas**
 - Instalación, configuración y mantenimiento de sistemas microinformáticos.
-- Gestión de servidores y seguridad: NFS, Samba, FTP, SSH, OpenMediaVault, encriptación y Zentyal.
+- Soporte y administración de servidores, redes y seguridad básica.
+- Gestión de sistemas y servicios con NFS, Samba, FTP, SSH, OpenMediaVault, encriptación y Zentyal.
 - Gestión de bases de datos MySQL y MySQL Workbench.
-- Montaje y configuración de ordenadores y periféricos.
-- Instalación, configuración y mantenimiento de redes locales, con conocimiento de DNS y DHCP.
-- Adaptación a distintos puestos de trabajo y nuevas situaciones laborales provocadas por cambios tecnológicos.
+- Montaje y configuración de equipos y periféricos.
+- Conocimientos prácticos de redes locales, DNS y DHCP.
+- Adaptación a distintos entornos laborales y evolución tecnológica.
 
 ### **Cloud & DevOps**
-- **AWS**: EKS, EC2, RDS, Lambda, ElastiCache, Glue, CloudWatch, IAM, VPC.
-- **Azure**: AZ-104, AZ-900.
-- **Kubernetes & Docker**.
-- **Infraestructura como código**: Terraform, ArgoCD.
-- **CI/CD**: Jenkins, GitHub Actions, GitLab, UrbanCode.
-- **Automatización**: Ansible, Python.
-- **Monitorización**: CloudWatch, Dynatrace, Prometheus, Grafana.
-- **Ticketing**: ServiceNow, Service Manager.
-- **Herramientas**: Control-M, QuickSight, Lens, DBeaver, VSCode.
+- **AWS**: experiencia práctica con EKS, EC2, RDS, Lambda, ElastiCache, Glue, CloudWatch, IAM y VPC.
+- **Azure**: conocimientos de AZ-104 y AZ-900.
+- **Kubernetes y Docker**: despliegues, contenedores y mantenimiento básico de entorno.
+- **Infraestructura como código**: Terraform y ArgoCD.
+- **CI/CD**: Jenkins, GitHub Actions, GitLab y UrbanCode.
+- **Automatización**: Ansible y scripting con Python.
+- **Monitorización**: CloudWatch, Dynatrace, Prometheus y Grafana.
+- **Ticketing**: ServiceNow y Service Manager.
+- **Herramientas**: Control-M, QuickSight, Lens, DBeaver y VSCode.
 
 ### **Idiomas**
 - **Inglés**: nivel alto en lectura, conversación y escritura.
