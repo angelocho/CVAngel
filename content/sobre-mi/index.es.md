@@ -150,10 +150,10 @@ Más allá del trabajo, disfruto de:
 
 ## 🤝 Voluntariado
 
-### Embajador Júnior del Parlamento Europeo
-**2017/2018** - Representante de España
+### Participación en actividades formativas y de sensibilización
+**2017/2018** - Actividades vinculadas al Parlamento Europeo
 
-He tenido la oportunidad de servir como embajador representando a mi país, lo que refleja mi compromiso con el desarrollo personal y la responsabilidad social.
+He tenido la oportunidad de participar en actividades de formación y sensibilización relacionadas con el Parlamento Europeo, reforzando mi compromiso con la responsabilidad cívica y el aprendizaje continuo.
 
 ---
 

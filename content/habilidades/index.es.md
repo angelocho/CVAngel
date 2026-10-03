@@ -45,7 +45,7 @@ Pipelines declarativos, Groovy, plugins, distributed agents, GitOps
 
 ## 🎯 Competencias Intermedias (50-69%)
 
-- **Azure** - AZ-104, AZ-900 Certified
+- **Azure** - formación completada en AZ-104 y AZ-900
 - **ArgoCD** - GitOps, applicationsets
 - **Loki** - Log aggregation, labels
 - **Helm** - Charts, values, templating
@@ -58,15 +58,14 @@ Pipelines declarativos, Groovy, plugins, distributed agents, GitOps
 
 ---
 
-## 🏆 Certificaciones
+## 🏆 Certificaciones y Formación
 
-| Certificación | Emisor | Estado |
+| Formación / Certificación | Emisor | Estado |
 |-----------|--------|--------|
 | 🥇 **HashiCorp Certified: Terraform Associate** | HashiCorp | ✅ Activa |
-| 🥇 **AWS Certified Solutions Architect Associate** | Amazon | ✅ En preparación |
-| 🥇 **Azure Administrator Certified (AZ-104)** | Microsoft | ✅ Activa |
-| 🥇 **Azure Fundamentals (AZ-900)** | Microsoft | ✅ Activa |
-| 🥇 **AWS SysOps Administrator** | Amazon | ✅ En preparación |
+| 📚 **Azure AZ-104** | Microsoft | ✅ Formación completada |
+| 📚 **Azure AZ-900** | Microsoft | ✅ Formación completada |
+| 📚 **AWS SysOps** | Amazon / Pluralsight | ✅ Formación completada |
 
 ---
 

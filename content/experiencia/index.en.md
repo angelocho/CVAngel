@@ -41,7 +41,7 @@ params:
 ### Training in Tools:
 - **Terraform, ArgoCD, Gitlab, Github, Kubernetes, Docker, Jenkins**
 - AWS SysOps knowledge
-- AZ-104 and AZ-900 certifications (Pluralsight)
+- AZ-104 and AZ-900 training completed on Pluralsight
 - **Coches.com Project**
 
 ---

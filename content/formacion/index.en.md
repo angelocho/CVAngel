@@ -1,6 +1,6 @@
 ---
 title: "Education"
-description: "Technician in Network Computer System Administration. AWS SysOps, Azure AZ-104, AZ-900 certifications. Cloud infrastructure specialization."
+description: "Technician in Network Computer System Administration. AWS SysOps, Azure AZ-104, and AZ-900 training. Cloud infrastructure specialization."
 date: 2026-03-04
 params:
   author: "Ángel Bocalandro Ruiz"
@@ -31,15 +31,15 @@ params:
 
 ---
 
-## 📚 Professional Certifications
+## 📚 Professional Training
 
-### Cloud Certifications
-- **AWS SysOps Administrator** - In progress
-- **Microsoft Azure AZ-104** - Azure Administrator Associate
-- **Microsoft Azure AZ-900** - Azure Fundamentals
+### Cloud Training
+- **AWS SysOps** - completed training on AWS systems administration
+- **Microsoft Azure AZ-104** - completed administrator training
+- **Microsoft Azure AZ-900** - completed fundamentals training
 
 ### Training Platforms
-- **Pluralsight** - Multiple courses on cloud infrastructure and DevOps tools
+- **Pluralsight** - multiple courses on cloud infrastructure and DevOps tools
 - **Linux Academy** - Kubernetes and containerization courses
 
 ---

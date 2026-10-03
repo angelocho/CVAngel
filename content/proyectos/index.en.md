@@ -77,12 +77,12 @@ Experience in the **Automation** team working on infrastructure and DevOps tools
 ### 3. **DevOps Tools & Cloud Training (Luca Tic)**
 
 **Description:**
-As a **DevOps Engineer Junior**, I participated in the Coches.com project where I received in-depth training in key DevOps ecosystem tools and technologies. I completed Pluralsight certifications in AWS and Azure during this period.
+As a **DevOps Engineer Junior**, I participated in the Coches.com project where I received in-depth training in key DevOps ecosystem tools and technologies. I completed Pluralsight courses in AWS and Azure during this period.
 
 **Achievements:**
 - ✅ Mastery of Terraform as primary IaC
 - ✅ GitOps orchestration experience (ArgoCD)
-- ✅ Certifications: AWS SysOps, Azure AZ-104, Azure AZ-900
+- ✅ Training: AWS SysOps, Azure AZ-104, Azure AZ-900
 - ✅ Complete Kubernetes-Docker stack proficiency
 
 **Tech Stack:**

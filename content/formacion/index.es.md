@@ -1,6 +1,6 @@
 ---
 title: "Formación Académica"
-description: "Técnico en Administración de Sistemas Informáticos en Red. Certificaciones AWS SysOps, Azure AZ-104, AZ-900. Especialización en cloud infrastructure."
+description: "Técnico en Administración de Sistemas Informáticos en Red. Formación en AWS SysOps, Azure AZ-104 y AZ-900. Especialización en cloud infrastructure."
 date: 2026-03-04
 params:
   author: "Ángel Bocalandro Ruiz"
@@ -124,17 +124,17 @@ params:
 ### Pluralsight
 Plataforma de aprendizaje en línea donde completé cursos especializados:
 
-- **AWS SysOps** - Administración de sistemas en AWS
-- **AZ-104** - Azure Administrator (Microsoft)
-- **AZ-900** - Azure Fundamentals (Microsoft)
+- **AWS SysOps** - formación completada en administración de sistemas en AWS
+- **AZ-104** - formación completada en Azure Administrator (Microsoft)
+- **AZ-900** - formación completada en Azure Fundamentals (Microsoft)
 
 ---
 
 ## 🤝 Experiencia de Voluntariado
 
-### **Embajador Júnior del Parlamento Europeo**
+### **Participación en actividades formativas y de sensibilización**
 - **Periodo**: 2017/2018
-- **Descripción**: Rol como embajador representando a España en actividades del Parlamento Europeo
+- **Descripción**: Participación en actividades de formación y sensibilización vinculadas al Parlamento Europeo, sin representación institucional oficial
 
 ---
 

@@ -48,7 +48,7 @@ params:
   - Jenkins para CI/CD
   - GitLab y Github para control de versiones
 
-- **Certificaciones y cursos en Pluralsight**:
+- **Cursos y formación en Pluralsight**:
   - AWS SysOps
   - AZ-104 (Azure Administrator)
   - AZ-900 (Azure Fundamentals)
