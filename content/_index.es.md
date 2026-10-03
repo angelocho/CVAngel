@@ -127,6 +127,9 @@ Mi proyecto de fin de curso trató sobre **Kali Linux**.
 - ✅ **Introduction to Google Workspace with Gemini**
 - ✅ **Formación Program Systems Cloud & DevOps – Edición AWS**
   - *Tecnologías*: Elastic, Go, Terraform, Prometheus, Grafana, Loki, Docker, Linux, Jenkins, Ansible, Scrum, Python, JUnit, AWS, GitHub
+- ✅ **Formación en Azure AZ-104** *(curso completado)*
+- ✅ **Formación en Azure AZ-900** *(curso completado)*
+- ✅ **AWS SysOps – formación completada en Pluralsight**
 - ✅ **Formación RGPD LOPD online**
 - ✅ **Curso de Concienciación en Seguridad**
 - ✅ **Certificado del Parlamento Europeo (2017/2018)**
@@ -154,7 +157,8 @@ Mi proyecto de fin de curso trató sobre **Kali Linux**.
 
 ### **Cloud & DevOps**
 - **AWS**: experiencia práctica con EKS, EC2, RDS, Lambda, ElastiCache, Glue, CloudWatch, IAM y VPC.
-- **Azure**: conocimientos de AZ-104 y AZ-900.
+- **Azure**: formación completada en AZ-104 y AZ-900.
+- **AWS SysOps**: formación completada en Pluralsight.
 - **Kubernetes y Docker**: despliegues, contenedores y mantenimiento básico de entorno.
 - **Infraestructura como código**: Terraform y ArgoCD.
 - **CI/CD**: Jenkins, GitHub Actions, GitLab y UrbanCode.
