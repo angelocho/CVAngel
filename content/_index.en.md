@@ -129,7 +129,7 @@ My final project focused on **Kali Linux**.
   - *Technologies*: Elastic, Go, Terraform, Prometheus, Grafana, Loki, Docker, Linux, Jenkins, Ansible, Scrum, Python, JUnit, AWS, GitHub
 - ✅ **RGPD LOPD online training**
 - ✅ **Cybersecurity awareness course**
-- ✅ **Junior Ambassador of the European Parliament (2017/2018)**
+- ✅ **European Parliament certificate (2017/2018)**
 - ✅ **Basic occupational risk prevention training (FOL)**
 - ✅ **Customer service in a boat rental business** (voluntary work)
 

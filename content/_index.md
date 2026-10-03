@@ -129,7 +129,7 @@ Mi proyecto de fin de curso trató sobre **Kali Linux**.
   - *Tecnologías*: Elastic, Go, Terraform, Prometheus, Grafana, Loki, Docker, Linux, Jenkins, Ansible, Scrum, Python, JUnit, AWS, GitHub
 - ✅ **Formación RGPD LOPD online**
 - ✅ **Curso de Concienciación en Seguridad**
-- ✅ **Embajador Júnior del Parlamento Europeo (2017/2018)**
+- ✅ **Certificado del Parlamento Europeo (2017/2018)**
 - ✅ **Nivel básico de prevención de riesgos laborales (FOL)**
 - ✅ **Atención a clientes en negocio de alquiler de embarcaciones** (trabajo voluntario)
 
