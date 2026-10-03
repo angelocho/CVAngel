@@ -1,155 +1,173 @@
 ---
 title: "Ángel Bocalandro Ruiz"
-description: "DevOps Engineer specializing in AWS, Kubernetes, Terraform and cloud infrastructure. Experience in CI/CD, automation and containerization. SUSE, EKS, Docker expert. Madrid, Spain."
-date: 2026-03-04
+description: "System administration technician and DevOps Engineer with experience in AWS, Kubernetes, Terraform, automation and IT security."
+date: 2026-10-03
 params:
   author: "Ángel Bocalandro Ruiz"
 ---
 
-# 👋 Welcome to My Portfolio
+# 👋 Portfolio
 
-**DevOps Engineer** specializing in cloud infrastructure, Kubernetes, and automation. I have experience managing large-scale infrastructure in the financial and technology sectors.
+I am a **systems administration technician** with a strong learning capacity, efficient and experienced in real IT environments. My vocational training allowed me to develop strong knowledge in systems administration, networks, and cloud environments.
 
----
-
-## 📊 My Numbers
-
-| Metric | Value |
-|--------|-------|
-| 🚀 **Kubernetes Clusters in Production** | 6 |
-| ⏱️ **Average Uptime** | 99.9% |
-| 📦 **Automated Deployments** | 50+ / month |
-| ⚡ **Commit to Production Time** | < 10 min |
-| 🔧 **Infrastructure Automation** | 95% |
-| 📈 **MTTR Reduction** | 70% |
+I am currently building my career as a **DevOps Engineer**, with a focus on automation, cloud infrastructure, security, and continuous improvement. I am motivated to keep learning and improving in my profession.
 
 ---
 
-## 🎯 My Strengths
+## 📍 Contact
 
-- **☁️ AWS Expert** - EKS, EC2, RDS, Lambda, VPC (95% proficiency)
-- **🐳 Kubernetes Advanced** - 6 clusters in production (95% proficiency)
-- **📝 Infrastructure as Code** - Terraform certified (95% proficiency)
-- **🚀 CI/CD Specialist** - Jenkins, GitHub Actions, GitLab CI (90% proficiency)
-- **💻 Automation** - Python, Ansible, scripting (85% proficiency)
-
----
-
-## 📍 Location & Contact
-
-🏙️ **Madrid, Spain** | 📧 **[angelocho64@gmail.com](mailto:angelocho64@gmail.com)** | 🔗 **[LinkedIn](https://linkedin.com/in/ángel-bocalandro-ruiz-ab7221231/)** | 💻 **[GitHub](https://github.com/angelocho)**
+- 📍 **Madrid, Spain**
+-  **[angelocho64@gmail.com](mailto:angelocho64@gmail.com)**
+- 🔗 **[LinkedIn](https://linkedin.com/in/ángel-bocalandro-ruiz-ab7221231/)**
+- 💻 **[GitHub](https://github.com/angelocho)**
 
 ---
 
-## 🚀 Call to Action
+## 🚀 Download my CV
 
-### ⬇️ Download my CV
-[`📄 Download PDF CV`](/CV.pdf) - Complete version of my experience and certifications
-
-### 💬 Get in Touch
-📧 [angelocho64@gmail.com](mailto:angelocho64@gmail.com) - Available to discuss DevOps opportunities
+[`📄 Download PDF CV`](/CV.pdf) - Complete and updated version of the curriculum.
 
 ---
 
 ## 💼 Professional Experience
 
-### **DevOps Engineer** | Banco Santander (Grupo Hasten / Nter)
-**February 2025 – Present** | Madrid / Remote
+### **DevOps Engineer** | Banco Santander (through Grupo Hasten / Nter)
+**February 2025 – Present** | Madrid / Hybrid
 
-- **Large-scale cloud infrastructure**: I manage 6 Amazon EKS clusters in pre-production and production, managing updates, security patches, and associated networking (VPC, subnets, load balancers, Security Groups)
-- **IAM permission coordination** with the security team applying principle of least privilege
-- **Deployments and releases**: I coordinate 4 weekly production deployments, managing documentation, approvals, and communication between teams
-- **Service deployment** such as RDS PostgreSQL, ElastiCache, Lambda, and Glue using pipelines with GitHub Actions and UrbanCode
-- **Support and incident resolution**: Pipeline error debugging, incident resolution, and ticketing management with ServiceNow
-- **Monitoring**: I implement dashboards and alarms in CloudWatch to monitor infrastructure health
-- **Continuous improvement**: I propose resource and cost optimizations in AWS, documenting processes for the team
-
-### **DevOps Engineer Junior** | UST Global Esp
-**October 2023 - June 2024**
-
-- Experience in **Automation** team for Santander project
-- Tools: Rundeck, Jenkins, Dynatrace, Infoblox, PSP, Ansible, Github, GitLab, VSCode, TFE
-- Ticket management with **ServiceNow**
-- Experience in public clouds (AWS, Azure) and private cloud (OHE)
-- Development in **Python**
-
-### **DevOps Engineer Junior** | Luca Tic
-**March - October 2023**
-
-- Training in tools: **Terraform, ArgoCD, Gitlab, Github, Kubernetes, Docker, Jenkins**
-- Knowledge: AWS SysOps, AZ-104 and AZ-900 (Pluralsight)
-- Coches.com Project
-
-### **On-Site Work** | Ibermática, S.A.
-**November - December 2022**
-
-- Support at **Ministry of Justice CAU**
-
-### **DevOps Engineer** | Banco Santander (Grupo Hasten / Nter)
-**February 2025 – Present** | Madrid / Remote
-
-- **Large-scale cloud infrastructure**: I manage 6 Amazon EKS clusters in pre-production and production, managing updates, security patches, and associated networking (VPC, subnets, load balancers, Security Groups)
-- **IAM permission coordination** with the security team applying principle of least privilege
-- **Deployments and releases**: I coordinate 4 weekly production deployments, managing documentation, approvals, and communication between teams
-- **Service deployment** such as RDS PostgreSQL, ElastiCache, Lambda, and Glue using pipelines with GitHub Actions and UrbanCode
-- **Support and incident resolution**: Pipeline error debugging, incident resolution, and ticketing management with ServiceNow
-- **Monitoring**: I implement dashboards and alarms in CloudWatch to monitor infrastructure health
-- **Continuous improvement**: I propose resource and cost optimizations in AWS, documenting processes for the team
+- **Large-scale cloud infrastructure**: I manage 6 Amazon EKS clusters across development, pre-production, and production, handling updates, security patches, and associated networking (VPC, subnets, load balancers, and Security Groups).
+- **IAM permissions**: I coordinate access permissions with the security team following the least-privilege principle.
+- **Deployments and releases**: I coordinate 4 deployments per month to production, managing documentation, approvals, and communication across teams.
+- **Deployed services**: RDS PostgreSQL, ElastiCache, Lambda, and Glue via GitHub Actions and UrbanCode pipelines, ensuring traceability and minimal impact.
+- **Support and incident resolution**: I act as a reference for developers, debugging pipeline issues proactively. I manage ticketing and issue tracking with ServiceNow and investigate failures in CloudWatch logs, Athena queries, and EKS clusters using Lens and DBeaver.
+- **Monitoring and continuous improvement**: I implement dashboards and alarms in CloudWatch to monitor infrastructure and application health. I propose resource and cost optimizations in AWS.
+- **AI prompt management and best practices**: I apply prompting guidance and share good practices with the team.
+- **Project work**: AWS account migration to ensure continuity and availability without affecting production.
 
 ### **DevOps Engineer Junior** | UST Global Esp
 **October 2023 - June 2024**
 
-- Experience in **Automation** team for Santander project
-- Tools: Rundeck, Jenkins, Dynatrace, Infoblox, PSP, Ansible, Github, GitLab, VSCode, TFE
-- Ticket management with **ServiceNow**
-- Experience in public clouds (AWS, Azure) and private cloud (OHE)
-- Development in **Python**
+- Experience in the **Automation** team for the Santander project.
+- Tools used: Rundeck, Jenkins, Dynatrace, Infoblox, PSP, Ansible, GitHub, GitLab, VSCode, TFE, and Python.
+- Ticket management with **ServiceNow**.
+- Experience with public cloud (AWS, Azure) and private cloud (OHE).
 
 ### **DevOps Engineer Junior** | Luca Tic
 **March - October 2023**
 
-- Training in tools: **Terraform, ArgoCD, Gitlab, Github, Kubernetes, Docker, Jenkins**
-- Knowledge: AWS SysOps, AZ-104 and AZ-900 (Pluralsight)
-- Coches.com Project
+- Training in tools such as **Terraform, ArgoCD, GitLab, GitHub, Kubernetes, Docker, and Jenkins**.
+- Knowledge of **AWS SysOps, AZ-104 and AZ-900** through Pluralsight.
+- Project: **Coches.com**.
 
-### **On-Site Work** | Ibermática, S.A.
+### **On-site work** | Ibermática, S.A.
 **November - December 2022**
 
-- Support at **Ministry of Justice CAU**
+- Support in the **CAU of the Ministry of Justice**.
+- Use of the **Service Manager** ticketing system.
+- Customer support via **IVoz**.
+- Learning of proprietary ministry applications.
+
+### **On-site work** | EQUALIA SERVICIOS INTEGRALES, S.L.
+**April - June 2022**
+
+- Configuration of **VPNs**.
+- Assembly of equipment and router configuration.
+- VLANs on **Cisco** switches.
+- Server monitoring.
+- Installation of operating systems.
+- Customer support.
+
+### **Work placement** | Vortex Dimensión Digital S.L.L.
+**April - June 2020** *(Remote work due to COVID-19)*
+
+- Management of multiple social media channels.
+- WordPress plugins.
+- Video and photo editing.
+
+---
+
+## 🧠 About Me
+
+I am a systems administration technician with a high capacity for learning, very efficient, and with experience in real IT environments. My vocational training has allowed me to develop strong knowledge in systems and network administration. I am highly motivated to continue learning and improving in my profession.
+
+My final project focused on **Kali Linux**.
+
+**Interests**: cybersecurity, video games, series, and video editing.
 
 ---
 
 ## 🎓 Education
 
-**Technician in Network Computer System Administration**
-- I.E.S. Villablanca (2020-2022)
-- Advanced professional training with specialization in infrastructure and security
+### **Primary education**
+- **Center**: CEIP Los Almendros
 
-**Professional Certifications**
-- Microsoft Azure AZ-104 - Azure Administrator Associate
-- Microsoft Azure AZ-900 - Azure Fundamentals
-- AWS SysOps Administrator (in progress)
+### **Compulsory Secondary Education (ESO)**
+- **Qualification**: Secondary education
+- **Center**: I.E.S. Valdebernardo
+- **Dates**: 2014 - 2018
 
----
+### **Intermediate Vocational Training**
+- **Qualification**: Technical in Microcomputer Systems and Networks
+- **Center**: I.E.S. Villablanca
+- **Dates**: 2018 - 2020
 
-## 🛠️ Key Skills
-
-- **Cloud Infrastructure**: AWS (EKS, EC2, RDS, Lambda, CloudWatch), Microsoft Azure
-- **Containers & Orchestration**: Kubernetes, Docker, Helm
-- **CI/CD & Automation**: GitHub Actions, Jenkins, GitLab CI/CD, ArgoCD
-- **Infrastructure as Code**: Terraform, CloudFormation, Ansible
-- **Monitoring**: CloudWatch, Dynatrace, Prometheus, Grafana
-- **Programming**: Python, Bash, YAML
-- **Soft Skills**: Team collaboration, problem-solving, technical documentation
+### **Higher Vocational Training**
+- **Qualification**: Technical in Computer Systems Administration and Network Management
+- **Center**: I.E.S. Villablanca
+- **Dates**: 2020 - 2022
 
 ---
 
-## 📞 Contact
+## 🏆 Certifications and Training
 
-- **Email**: [angelocho64@gmail.com](mailto:angelocho64@gmail.com)
-- **GitHub**: [angelocho](https://github.com/angelocho)
-- **LinkedIn**: [Ángel Bocalandro Ruiz](https://www.linkedin.com/in/%C3%A1ngel-bocalandro-ruiz-ab7221231/)
+- ✅ **Cisco IT Essentials**
+- ✅ **Cisco Networking (CCNA)**
+- ✅ **AWS Certified Cloud Practitioner**
+- ✅ **HashiCorp Certified: Terraform Associate (003)**
+- ✅ **HashiCorp Certified: Terraform Associate (004)**
+- ✅ **Introduction to Google Workspace with Gemini**
+- ✅ **Program Systems Cloud & DevOps – AWS Edition**
+  - *Technologies*: Elastic, Go, Terraform, Prometheus, Grafana, Loki, Docker, Linux, Jenkins, Ansible, Scrum, Python, JUnit, AWS, GitHub
+- ✅ **RGPD LOPD online training**
+- ✅ **Cybersecurity awareness course**
+- ✅ **Junior Ambassador of the European Parliament (2017/2018)**
+- ✅ **Basic occupational risk prevention training (FOL)**
+- ✅ **Customer service in a boat rental business** (voluntary work)
 
 ---
 
-*Last updated: March 2026*
+## 🛠️ Skills and Aptitudes
+
+### **Aptitudes**
+- High level of responsibility.
+- Motivation in the face of challenges and self-discipline under complex situations.
+- Tenacity and team spirit.
+- Empathy and assertiveness.
+
+### **Technical skills**
+- Installation, configuration, and maintenance of microcomputer systems.
+- Server and security management: NFS, Samba, FTP, SSH, OpenMediaVault, encryption, and Zentyal.
+- MySQL database management and MySQL Workbench.
+- Assembly and configuration of computers and peripherals.
+- Installation, configuration, and maintenance of local networks with knowledge of DNS and DHCP.
+- Adaptation to different work positions and new work situations caused by technological change.
+
+### **Cloud & DevOps**
+- **AWS**: EKS, EC2, RDS, Lambda, ElastiCache, Glue, CloudWatch, IAM, VPC.
+- **Azure**: AZ-104, AZ-900.
+- **Kubernetes & Docker**.
+- **Infrastructure as Code**: Terraform, ArgoCD.
+- **CI/CD**: Jenkins, GitHub Actions, GitLab, UrbanCode.
+- **Automation**: Ansible, Python.
+- **Monitoring**: CloudWatch, Dynatrace, Prometheus, Grafana.
+- **Ticketing**: ServiceNow, Service Manager.
+- **Tools**: Control-M, QuickSight, Lens, DBeaver, VSCode.
+
+### **Languages**
+- **English**: high level in reading, speaking, and writing.
+- **Council of Europe Level B1 Cambridge Assessment** (May 2018).
+- **EF SET Certificate**: Listening B2, Reading 72/100.
+
+---
+
+*Updated from the CV provided in October 2026.*
+
